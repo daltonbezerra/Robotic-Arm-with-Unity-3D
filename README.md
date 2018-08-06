@@ -8,7 +8,7 @@ PT-BR
 Como tem muitos arquivos e o GitHub tem um limite de 100 arquivos, irei fazer upload no Google Drive e disponibilizar o link aqui: https://drive.google.com/drive/folders/1AaxIYgWYwH4KzOehRpILee2aMwpbRQj2?usp=sharing
 
 
-Até o momento tive muitas dificuldades com as juntas do software, especialmente ao tentar conectar mais de uma junta. Sempre que eu apertava o "play" o braço começava a se tremer em todas as juntas e não estava retratando o que devia ser a realidade. Os videos tutoriais que encontrei pela internet e no proprio site do desenvolvedor do software eram mais voltados a explicar o funcionamento de cada junta separadamente e não faziam a conexão de duas ou mais juntas em sequencia.
+Até o momento tive muitas dificuldades com as juntas do software, especialmente ao tentar conectar mais de uma junta. Sempre que eu apertava o "play" o braço começava a tremer em todas as juntas e não estava retratando o que devia ser a realidade. Os videos tutoriais que encontrei pela internet e no proprio site do desenvolvedor do software eram mais voltados a explicar o funcionamento de cada junta separadamente e não faziam a conexão de duas ou mais juntas em sequencia.
 
 Depois de muita pesquisa e principalmente tentativa e erro, consegui fazer com que o braço apresentasse um comportamento parecido com a "realidade". Consegui conectar três juntas e quando aperto o "play" e uso um cubo para colidir com o braço robótico, o mesmo cai como se estivesse sofrendo ação da gravidade. A junta de rotação ainda não está com um funcionamento ideal, mas já está muito satisfatório. Agora preciso aprender a movimentar o braço através de scrips.
 
