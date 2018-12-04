@@ -43,7 +43,11 @@ Ao longo do desenvolvimento do projeto, o Unity 3D mostrou ser uma ferramenta qu
 Sugestões para trabalhos futuros incluem:
 
 -Incluir uma maior variedade de modelos de manipuladores
+
 -Melhorar a interface do software
+
 -Portar o software para outras plataformas como Andoid, IOS, Linux, etc
+
 -Incluir o detalhamento das equações de cada manipulador para permitir ao aluno e/ou professor uma melhor compreensão do que está ocorrendo por trás das movimentações do braço
+
 -Incluir outros métodos de controle de manipuladores robóticos como a matriz jacobiana
