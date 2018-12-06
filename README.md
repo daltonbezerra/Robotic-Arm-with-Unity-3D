@@ -5,7 +5,7 @@ This is a project Im doing for my undergraduate thesis and I am trying to simula
 
 PT-BR
 
-Como tem muitos arquivos e o GitHub tem um limite de 100 arquivos, irei fazer upload no Google Drive e disponibilizar o link aqui: https://drive.google.com/open?id=1DLmOl0Mk68R6rK3tQSzEPl2WobyAJhCy
+Como tem muitos arquivos e o GitHub tem um limite de 100 arquivos, irei fazer upload no Google Drive e disponibilizar o link aqui: https://drive.google.com/open?id=1sX01JDzpA4RfAgEu_pnRK2CaspX-nEIK
 
 Atualmente a robótica é uma das áreas que mais crescem não apenas no setor industrial, mas também no setores de consumo e serviços. Diversas áreas se beneficiam com o avanço tecnológico da robótica, principalmente a área industrial que beneficia se com os ganhos em produtividade e qualidade. Porém, para atender a esta crescente demanda, é necessário formar profissionais que já saiam de seus respectivos cursos com um conhecimento mais aprofundado de como projetar e controlar um manipulador robótico.
 É lógico que para obter esse conhecimento mais aprofundado em robótica, faz se necessário ter uma experiencia com um manipulador robótico real, pois a prática tem um poder de fixação muito mais poderoso do que a teoria. Porém, sabe se que uma braço robótico não é um investimento baixo, e sua manutenção também não é barata. Por isso, muitas instituições de ensino não tem condições de fornecer este tipo de experiencia a seus alunos. 
